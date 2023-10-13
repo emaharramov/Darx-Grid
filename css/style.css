@@ -159,6 +159,7 @@ footer { background-color: #1a1a1c; }
     padding: 12px;
     background-color: #262627;
     margin: 5px 0;
+    border: none;
 }
 #btn {
     opacity: 0.6;
